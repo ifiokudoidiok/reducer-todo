@@ -16,9 +16,9 @@ In this project, you build an app that let's you display a todo list from reduce
 
 ## Project Set Up
 
-- [ ] Create a forked copy of this project.
-- [ ] Add your team lead as collaborator on Github.
-- [ ] Clone your OWN version of the repository in your terminal
+- [x] Create a forked copy of this project.
+- [x] Add your team lead as collaborator on Github.
+- [x] Clone your OWN version of the repository in your terminal
 - [ ] CD into the project base directory `cd reducer-todo`
 - [ ] Create a new react app using CRA
 - [ ] Using the same command tool (yarn or npm) start up the app using `yarn start` or `npm start`
